@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jzangarinim@gmail.com**
 
-- ⚡ Fun fact **I'm a Chemical Engineer**
+- ⚡ Fun fact **I'm a Chemical Engineer**🧪
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
