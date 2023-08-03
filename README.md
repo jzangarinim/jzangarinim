@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Zangarini</h1>
 <h3 align="center">A motivated Full-Stack Software Developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [Success-CRM](https://github.com/danielrodc/final-project-crm)
+- 🔭 I’m currently working on [Success-CRM](https://github.com/jzangarinim/success-crm)
 
 - 🌱 I’m currently learning **TypeScript, Django, NodeJS**
 
