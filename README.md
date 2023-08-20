@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Success-CRM](https://github.com/jzangarinim/success-crm)
 
-- 🌱 I’m currently learning **TypeScript, Django, NodeJS**
+- 🌱 I’m currently learning **ReactJS, NodeJS**
 
 - 💬 Ask me about **Vanilla JavaScript, ReactJS**
 
