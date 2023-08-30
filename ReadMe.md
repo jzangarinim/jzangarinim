@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi! I’m thrilled to be on this coding journey as a passionate and dynamic young software developer. With a mind full of curiosity and hunger for learning, I’m always on the lookout for ways to challenge myself and grow in the world of technology. At 27 years old, and being raised in Venezuela despite my Italian roots, I bring a unique blend of cultural perspectives to my work.
+👋 Hi! I’m thrilled to be on this coding journey as a passionate and dynamic young software developer. With a mind full of curiosity and hunger for learning, I’m always on the lookout for ways to challenge myself and grow in the world of technology. At 27 years old, and being raised in Venezuela, I bring a unique blend of cultural perspectives to my work.
 
-My coding journey began with a spark of fascination and has evolved into a relentless pursuit of mastery. Armed with a strong foundation in programming principles, I’ve taken up the mission to craft elegant and efficient solutions that not only solve problems but also seek innovation. Something that excites me is the idea of collaboration – the chance to team up with fellow developers, thought leaders, and visionaries to bring projects to life.
+💻 My coding journey began with a spark of fascination and has evolved into a relentless pursuit of mastery. Armed with a strong foundation in programming principles, I’ve taken up the mission to craft elegant and efficient solutions that not only solve problems but also seek innovation. Something that excites me is the idea of collaboration – the chance to team up with fellow developers, thought leaders, and visionaries to bring projects to life.
 
-To me, every line of code tells a story, and I’m here to create captivating solutions that resonate with users and leave a lasting impact. Whether it’s diving into backend complexity or crafting seamless user experiences on the frontend, I’m all in. If you’re seeking a dedicated and adaptable developer who thrives in collaborative environments, I would like to connect.
+🗒️ To me, every line of code tells a story, and I’m here to create captivating solutions that resonate with users and leave a lasting impact. Whether it’s diving into backend complexity or crafting seamless user experiences on the frontend, I’m all in. If you’re seeking a dedicated and adaptable developer who thrives in collaborative environments, I would like to connect.
 
 
 ## 🌐 Socials:
